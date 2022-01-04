@@ -3,7 +3,6 @@ I'm a C and Ruby fan who's always looking to learn more about how things work.
 For that reason my projects tend to vary as I find new and interesting things
 to dig into, but I do have a few projects that I consistently work on.
 
-
 ## Main Projects
  * [Stumpless](https://github.com/goatshriek/stumpless) is a passion project to
    take something very simple (logging) and do it very well. I've used it as a
@@ -20,11 +19,11 @@ to dig into, but I do have a few projects that I consistently work on.
    is a great place to start!
  * [Ruby Dragon](https://github.com/goatshriek/ruby-dragon) is a plugin for
    NSA's [Ghidra](https://github.com/NationalSecurityAgency/ghidra) SRE tool
-   that allows you to use more languages than the standard Java and Jython
-   options that come standard. It's a reflection of my love of learning new
-   programming languages and belief that you should be able to use any tool from
-   any language. If you have a JVM-based language you think should be included,
-   be sure to open an issue for it to get added!
+   that allows you to use more languages than the Java and Jython options that
+   come standard. It's a reflection of my love of learning new programming
+   languages and belief that you should be able to use any tool from any
+   language. If you have a JVM-based language you think should be included, be
+   sure to open an issue for it to get added!
  * [Wrapture](https://github.com/goatshriek/wrapture) is a project that started
    out as a simple script in stumpless to create C++ wrappers for the library.
    It's under active work to become a full-fledged code generation tool for
