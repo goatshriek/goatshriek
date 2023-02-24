@@ -33,4 +33,11 @@ to dig into, but I do have a few projects that I consistently work on.
    [GObject](https://gi.readthedocs.io/en/latest/), or [Haxe](https://haxe.org/)
    if you need to do this. But if you're really curious, star the repo and
    keep an eye on it - I do plan to make it a viable option in due time!
+ * I work closely with [STEAM Rising](https://www.steam-rising.org/), a
+   non-profit that provides [STEAM](https://en.wikipedia.org/wiki/STEAM_fields)
+   education opportunities to kids in the Charlotte-Mecklenburg region of North
+   Carolina. Working with kids to build an interest in these disciplines is not
+   only rewarding, but also a great way to inspire the next generation of the
+   FOSS community and lots of other communities too! If that sounds good to you,
+   [check it out](https://www.steam-rising.org/get-involved/)!
 
